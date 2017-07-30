@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "Darkplusix",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "editor.dragAndDrop": false,
+    "editor.tabCompletion": true
+}
